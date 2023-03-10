@@ -9,7 +9,7 @@
 const char* correct_pin = "1234";
 
 // Define the keypad matrix
-const char keypad[4][4] = {
+const char keypad[4][3] = {
     {'1', '2', '3'},
     {'4', '5', '6'},
     {'7', '8', '9'},
