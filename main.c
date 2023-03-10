@@ -10,10 +10,10 @@ const char* correct_pin = "1234";
 
 // Define the keypad matrix
 const char keypad[4][4] = {
-    {'1', '2', '3', 'A'},
-    {'4', '5', '6', 'B'},
-    {'7', '8', '9', 'C'},
-    {'*', '0', '#', 'D'}
+    {'1', '2', '3'},
+    {'4', '5', '6'},
+    {'7', '8', '9'},
+    {'*', '0', '#'}
 };
 
 // Function to read a key from the keypad
